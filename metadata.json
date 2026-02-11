@@ -1,0 +1,5 @@
+{
+  "name": "InfraCore DeepDive",
+  "description": "A high-performance infrastructure monitoring dashboard featuring real-time metrics, interactive visualization, and microservices health tracking.",
+  "requestFramePermissions": []
+}
